@@ -6,4 +6,4 @@ jupyter trust "Chapter 1 Exercises.ipynb"
 jupyter trust "Chapter 2 Exercises.ipynb"
 jupyter trust "Chapter 3 Exercises.ipynb"
 
-git clone https://github.com/mnielsen/neural-networks-and-deep-learning.git
+git clone https://github.com/MichalDanielDobrzanski/DeepLearningPython
