@@ -6,3 +6,6 @@ Chapter 1:
 
 Chapter 2:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomFahey/Neural-Networks-And-Deep-Learning-Exercises/main?filepath=Chapter%202%20Exercises.ipynb)
+
+Chapter 3:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomFahey/Neural-Networks-And-Deep-Learning-Exercises/main?filepath=Chapter%203%20Exercises.ipynb)
